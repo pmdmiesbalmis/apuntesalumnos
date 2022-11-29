@@ -1,17 +1,17 @@
----
-title:
-    Título
-export_on_save:
-    html: true
-toc:
-    depth_from: 1
-    depth_to: 4
-    ordered: true
----
+# Iíndice
 
-# Apuntes PMDM Alumnado
+- [Iíndice](#iíndice)
+  - [Apuntes PMDM Alumnado](#apuntes-pmdm-alumnado)
+  - [Titulo2](#titulo2)
 
-```kotlin {class="line-numbers"}
+
+## Apuntes PMDM Alumnado
+
+- Texto **jdfhsj** sdkljflkj `djfslkjf` 
+
+## Titulo2
+
+```kotlin
 recyclerView.setHasFixedSize(true)
 val adaptador = Adaptador(datos,this)
 adaptador.setHasStableIds(true)
