@@ -14,6 +14,12 @@
 
 ## Índice
 
+- **Tema 7**
+
+  - NavHost [MD](./tema_7/nav_host.md) - [HTML](./tema_7/nav_host.html)
+
+  - ViewModel [MD](./tema_7/view_model.md) - [HTML](./tema_7/view_model.html)
+  
 - **Tema 8**
 
   - Selección múltiple en RecyclerView [MD](./tema_8/seleccion_multiple_recycler.md) - [HTML](./tema_8/seleccion_multiple_recycler.html)
